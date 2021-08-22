@@ -36,13 +36,14 @@ export class Menu{
   #  2) Agregar Estudiante                          #
   #  3) Agregar Conferencia                         #
   #  4) Ver lista de Conferencias                   #
-  #  5) Ver lista de Conferencias por profesores    #
-  #  6) Registrarse en una conferencia              #
-  #  7) Esta opción es un ejemplo, ¿quieres probar? #
+  #  5) Ver lista de Conferencias por mentores      #
+  #  6) Registrar estudiante en conferencia         #
+  #  7) Ver lista de Estudiantes                    #
+  #  8) Ver lista de Mentores                       #
+  #  9) Ver lista de Estudiantes por Conferencia    #
   #  0) Salir.                                      #
   ###################################################
     `
-
     console.log(menu);
     
   }

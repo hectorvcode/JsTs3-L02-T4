@@ -40,7 +40,7 @@ en la aplicación.
 
 ## Stay in touch
 
-- Autor - [Roso Peñaranda](https://github.com/RosoPenaranda/)
+- Autor - [Hector Vasquez](https://github.com/hectorvcode/)
 
 ## License
 
